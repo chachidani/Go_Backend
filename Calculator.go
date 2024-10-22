@@ -12,7 +12,7 @@ func calculateAverage(grades []float64) float64{
 	return total / float64(len(grades))
 }
 
-func main() {
+func main1() {
 	var studentName string
 	var numSubjects int
 
